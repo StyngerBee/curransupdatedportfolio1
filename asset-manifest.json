@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/curransupdatedportfolio1/static/css/main.7cfa8f1b.css",
-    "main.js": "/curransupdatedportfolio1/static/js/main.2a296934.js",
-    "static/media/portrait.png": "/curransupdatedportfolio1/static/media/portrait.e90a848fb27486509e4b.png",
-    "static/media/candid.jpeg": "/curransupdatedportfolio1/static/media/candid.a15651d62c6edfba7f75.jpeg",
-    "index.html": "/curransupdatedportfolio1/index.html",
-    "static/media/placeholdercv.txt": "/curransupdatedportfolio1/static/media/placeholdercv.100e6757d5c339502746.txt",
-    "main.7cfa8f1b.css.map": "/curransupdatedportfolio1/static/css/main.7cfa8f1b.css.map",
-    "main.2a296934.js.map": "/curransupdatedportfolio1/static/js/main.2a296934.js.map"
+    "main.css": "/static/css/main.7cfa8f1b.css",
+    "main.js": "/static/js/main.5d6f67f3.js",
+    "static/media/portrait.png": "/static/media/portrait.e90a848fb27486509e4b.png",
+    "static/media/candid.jpeg": "/static/media/candid.a15651d62c6edfba7f75.jpeg",
+    "index.html": "/index.html",
+    "static/media/placeholdercv.txt": "/static/media/placeholdercv.100e6757d5c339502746.txt",
+    "main.7cfa8f1b.css.map": "/static/css/main.7cfa8f1b.css.map",
+    "main.5d6f67f3.js.map": "/static/js/main.5d6f67f3.js.map"
   },
   "entrypoints": [
     "static/css/main.7cfa8f1b.css",
-    "static/js/main.2a296934.js"
+    "static/js/main.5d6f67f3.js"
   ]
 }
