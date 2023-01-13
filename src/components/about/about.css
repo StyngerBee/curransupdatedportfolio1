@@ -61,6 +61,7 @@
 }
 
 .about__content p {
+    text-indent: 50px;
     margin: 2rem 0 2.6rem;
     color: var(--color-light);
     
