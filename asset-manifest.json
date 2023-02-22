@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.860faa43.css",
-    "main.js": "/static/js/main.3ada4181.js",
+    "main.js": "/static/js/main.6fde6e8c.js",
     "static/media/portrait.png": "/static/media/portrait.e90a848fb27486509e4b.png",
-    "static/media/curran-duke-resume.docx": "/static/media/curran-duke-resume.dffa745703939922cab4.docx",
+    "static/media/curran-duke-resume.docx": "/static/media/curran-duke-resume.a6921c5ef1ad5532eaa6.docx",
     "static/media/candid.jpeg": "/static/media/candid.a15651d62c6edfba7f75.jpeg",
     "static/media/HigherLower.PNG": "/static/media/HigherLower.e181db82d44c3dc69465.PNG",
     "static/media/Technigram.PNG": "/static/media/Technigram.8bad9f6f1e5472b45fc7.PNG",
     "index.html": "/index.html",
     "main.860faa43.css.map": "/static/css/main.860faa43.css.map",
-    "main.3ada4181.js.map": "/static/js/main.3ada4181.js.map"
+    "main.6fde6e8c.js.map": "/static/js/main.6fde6e8c.js.map"
   },
   "entrypoints": [
     "static/css/main.860faa43.css",
-    "static/js/main.3ada4181.js"
+    "static/js/main.6fde6e8c.js"
   ]
 }
